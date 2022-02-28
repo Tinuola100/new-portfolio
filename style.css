@@ -1,0 +1,65 @@
+section{ 
+    background-color: rgb(223, 245, 245);
+    padding: 90px;
+    padding-bottom: 0;}
+    
+    
+    
+    .container{
+    color: rgb(121, 224, 202);
+    text-align: center;
+    position:relative;}
+    
+    
+    .mountain-1{
+    width: 500px;
+    height: 300px;}
+    
+    .content{
+    text-align:center;}
+    
+    h1,h3,h4{
+    color:rgb(121, 224, 202);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    
+    .portfolio{
+    background-color: rgb(207, 189, 189);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;}
+    
+    .portfolio img{
+    width: 400px;
+    height: 400px;
+    margin: 5px;}
+
+    .portfolio img:hover{
+        transform: scale(1.1);}
+        
+    
+    .social{
+    background-color: rgb(77, 226, 231);
+    text-align: center;}
+    span{
+    display: inline-block;
+    color: rgb(80, 157, 192);}
+    span ul{
+    width: 800px;}
+    span ul li{
+    display: inline-block;
+    padding: 50px 100px;}
+    
+    footer{
+    display: inline-block;}
+    footer ul{
+    width: 900px;}
+    footer ul li{
+    display: inline-block;
+    padding: 20px 120px;}
+    footer ul li a{
+    text-decoration: none;
+    color: white;}
+         
